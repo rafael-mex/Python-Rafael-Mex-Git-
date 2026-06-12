@@ -25,6 +25,6 @@ Este programa le permite al usuario escribir una ruta (de máximo 10 estaciones)
 
 > [!NOTE]
 > Es totalmente necesario descargar ambos archivos (Lineas_metro.py ; RUTAS_STC.py) para que funcione el programa.
-> Las instrucciones estan más detalladas en el programa 
+> Las instrucciones estan más detalladas en el programa. 
 > Esto solo es un prototipo
 
