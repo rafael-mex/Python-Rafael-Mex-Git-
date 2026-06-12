@@ -14,9 +14,9 @@ Una calculadora común y corriente, no tiene nada nuevo jaja.
 
 Este videojuego sin interfaz gráfica narra la historia de dos personas, en una noche de hospital con un aura tensa y escalofriante. Escoge con cual de los dos protagonistas pasar esta historia y decide bien tus acciones, ya que algunas revelan más que otras 
 
-> [Nota]
-> El código del juego es muy básico, por lo que, puede ser mejorado para dar una mejor experiencia de juego, pero honestamente no tengo intenciones de modificarlo. 
-
+> [!NOTE]
+> El código del juego es muy básico, por lo que, puede ser mejorado para dar una mejor experiencia de juego, pero honestamente no tengo intenciones de modificarlo.
+> 
 <br>
 
 # Lineas_metro.py -> RUTAS_STC.py
