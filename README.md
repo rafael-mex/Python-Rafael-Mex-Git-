@@ -23,7 +23,7 @@ Este videojuego sin interfaz gráfica narra la historia de dos personas, en una 
 
 Este programa le permite al usuario escribir una ruta (de máximo 10 estaciones) de traslado en el Sistema de Transporte Colectivo Metro , para hacerlo tienes que escribir el nombre de la estación tal y como está en el sitio web del [STC Metro](https://www.metro.cdmx.gob.mx/la-red/mapa-de-la-red). 
 
-> [Nota]
+> [!NOTE]
 > Es totalmente necesario descargar ambos archivos (Lineas_metro.py ; RUTAS_STC.py) para que funcione el programa.
 > Las instrucciones estan más detalladas en el programa 
 > Esto solo es un prototipo
