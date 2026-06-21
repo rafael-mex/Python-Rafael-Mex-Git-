@@ -5,8 +5,7 @@ Estos primeros cuatro programas son los primeros que he realizado independientem
 <br>
 
 # Calculadora_FPP.py
-> [!NOTE]
-> Una calculadora común y corriente, no tiene nada nuevo jaja. 
+Una calculadora común y corriente, no tiene nada nuevo jaja. 
 
 <br>
 
